@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+.container {
+    height: 800px;  
+    width:1000px;
+    background-color: rgb(140, 140, 171);
+    margin:5%;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.row1{
+    border-color: black;
+    height: 200px;
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-around;
+
+    
+
+}
+.row2{
+    background-color: brown;
+    height: 200px;
+    display: flex;
+
+    justify-content: space-around;
+}
+.row3{
+    background-color: purple;
+    height: 200px;
+    display: flex;
+    margin-top: 20px;
+    justify-content:space-around ;
+
+}
+
